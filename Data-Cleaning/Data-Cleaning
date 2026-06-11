@@ -1,10 +1,118 @@
-# Data Cleaning Project
+# Data Cleaning and Preparation Project
 
-Project completed during Decodelab Internship.
+## About This Project
 
-Tools Used:
-- Excel
-- Power Query
+Data is only as valuable as its quality. Before any meaningful analysis can take place, datasets must be accurate, consistent, and reliable.
 
-Objective:
-Clean and prepare raw data for analysis.
+This project was completed as part of the Decodelab Data Analytics Internship and focuses on the critical process of data cleaning and preparation. The objective was to transform a raw dataset containing inconsistencies, duplicates, and missing values into a clean, structured dataset ready for analysis and decision-making.
+
+This project demonstrates my ability to identify data quality issues, apply appropriate cleaning techniques, and prepare data for further analysis using industry best practices.
+
+---
+
+## Project Objective
+
+The goal of this project was to improve data quality and ensure the dataset was suitable for analysis by:
+
+* Identifying and removing duplicate records.
+* Handling missing and blank values.
+* Correcting inconsistencies in the dataset.
+* Standardizing data formats.
+* Improving overall data accuracy and reliability.
+
+---
+
+## Tools Used
+
+* Microsoft Excel
+* Power Query
+* Data Validation Techniques
+
+---
+
+## Data Cleaning Process
+
+The following steps were carried out during the cleaning process:
+
+### Data Assessment
+
+Reviewed the dataset to identify quality issues and understand the structure of the data.
+
+### Handling Missing Values
+
+Examined blank and null values and applied appropriate cleaning techniques where necessary.
+
+### Removing Duplicates
+
+Identified and removed duplicate records to ensure data integrity.
+
+### Standardization
+
+Standardize formats across columns to improve consistency and usability.
+
+### Data Validation
+
+Performed checks to confirm the dataset was accurate, complete, and ready for analysis.
+
+---
+
+## Key Outcomes
+
+Through this project:
+
+* Data quality was significantly improved.
+* Duplicate records were eliminated.
+* Inconsistencies were corrected.
+* The dataset became analysis-ready.
+* Reporting accuracy and reliability were enhanced.
+
+---
+
+## Why Data Cleaning Matters
+
+Data cleaning is one of the most important stages of the analytics process. Poor-quality data can lead to inaccurate insights and poor business decisions.
+
+This project reinforced the importance of building a strong analytical foundation before proceeding to exploratory analysis, reporting, or dashboard development.
+
+---
+
+## Project Deliverables
+
+This repository contains:
+
+* Raw Dataset
+* Cleaned Dataset
+* Data Cleaning Documentation
+* Project Presentation
+* Supporting Files
+
+---
+
+## Skills Demonstrated
+
+✔ Data Cleaning
+
+✔ Data Preparation
+
+✔ Excel
+
+✔ Power Query
+
+✔ Data Quality Assessment
+
+✔ Problem Solving
+
+✔ Attention to Detail
+
+✔ Analytical Thinking
+
+---
+
+## About Me
+
+I am Mary Moses, an aspiring Data Analyst passionate about turning raw data into meaningful insights.
+
+Through hands-on projects, internships, and continuous learning, I am developing expertise in Excel, SQL, Power BI, data visualization, and business intelligence.
+
+Thank you for visiting this repository. I welcome feedback, collaboration opportunities, and professional connections.
+
