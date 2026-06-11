@@ -1,0 +1,57 @@
+# Data Visualization Project
+
+## Project Overview
+
+This project presents data insights through interactive dashboards and visualizations. The objective was to transform analytical findings into clear and meaningful visual stories that support business decision-making.
+
+## Objectives
+
+* Visualize key performance indicators (KPIs).
+* Communicate insights effectively.
+* Identify trends, patterns, and opportunities.
+* Support decision-making through dashboards.
+
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Dashboard Design
+
+## Dashboard Features
+
+* KPI Summary Cards
+* Interactive Filters/Slicers
+* Trend Analysis
+* Category Performance Analysis
+* Business Insights Visualization
+
+📊 Key Insights Discovered:
+✅ Generated over $1.26M in revenue from 1,200 orders.
+✅ Chairs emerged as the top revenue-generating product.
+✅ Email and Instagram were among the strongest referral channels driving sales.
+✅ Delivered orders accounted for the largest share of transactions, reflecting strong order fulfillment performance.
+✅ Revenue trends revealed peak sales periods that can guide future marketing and inventory planning.
+
+💡 Recommendations:
+• Invest more in the highest-performing referral channels.
+• Prioritize inventory for top-selling products to prevent stock shortages.
+• Leverage peak sales periods for targeted campaigns and promotions.
+• Continue improving customer experience to maintain high delivery success rates.
+
+## Project Files
+
+* Dashboard Workbook
+* Dashboard Screenshots
+* Documentation
+* Presentation Slides
+
+## Dashboard Preview
+
+Screenshots of the dashboard are included in this repository.
+
+## Author
+
+Mary Moses
+
+Decodelab Internship Project
