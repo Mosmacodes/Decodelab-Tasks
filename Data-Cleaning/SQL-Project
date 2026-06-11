@@ -1,0 +1,51 @@
+# SQL Data Analysis Project
+
+## Project Overview
+
+This project demonstrates the use of SQL for data extraction, transformation, and analysis. Various queries were written to answer business questions and generate actionable insights from the dataset.
+
+## Objectives
+
+* Query and explore the dataset.
+* Analyze business performance using SQL.
+* Extract meaningful insights from raw data.
+* Support data-driven decision-making.
+
+## Tools Used
+
+* SQL
+* SQL Server
+
+## Analysis Performed
+
+* Data retrieval using SELECT statements
+* Data filtering and sorting
+* Aggregate functions
+* Grouping and summarization
+* Joins and relationships
+* Business insight generation
+
+## Key Findings
+
+* Identified important trends and patterns within the data.
+* Highlighted top-performing categories and segments.
+* Generated insights to support business strategy.
+
+## Recommendations
+
+* Focus on areas contributing the highest value.
+* Address gaps identified through analysis.
+* Leverage data insights for future decision-making.
+
+## Project Files
+
+* SQL Queries
+* Documentation
+* Analysis Report
+* Presentation Slides
+
+## Author
+
+Mary Moses
+
+Decodelab Internship Project
